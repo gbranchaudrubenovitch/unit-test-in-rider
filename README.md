@@ -1,5 +1,5 @@
 # unit-test-in-rider
-simplest c# project with a unit test to illustrate issue https://youtrack.jetbrains.com/issue/RIDER-3566
+simplest c# project with a unit test to illustrate issue [RIDER-6419](https://youtrack.jetbrains.com/issue/RIDER-6419)
 
 ## How to reproduce?
 1. Open the `.sln` in Rider EAP-22
